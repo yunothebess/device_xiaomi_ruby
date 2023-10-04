@@ -329,7 +329,6 @@ vendor/lib64/hw/vendor.mediatek.hardware.camera.atms@1.0-impl.so
 vendor/lib64/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so
 vendor/lib64/hw/vendor.mediatek.hardware.camera.isphal@1.0-impl.so
 vendor/lib64/hw/vendor.mediatek.hardware.camera.lomoeffect@1.0-impl.so
-vendor/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so
 vendor/lib64/imx766ofilm2_mipi_raw_IdxMgr.so
 vendor/lib64/imx766ofilm2_mipi_raw_tuning.so
 vendor/lib64/imx766ofilm_mipi_raw_IdxMgr.so
@@ -1153,6 +1152,7 @@ vendor/lib64/libvidhance.so
 vendor/lib64/libvidhance_active_ois.so
 vendor/lib64/libvidhance_ldc.so
 vendor/lib64/libvidhance_stabilizer.so
+vendor/lib64/mtkcam/libmtkcam_streaminfo_plugin-p1stt.so
 vendor/lib64/ov02b10aac_mipi_raw_IdxMgr.so
 vendor/lib64/ov02b10aac_mipi_raw_tuning.so
 vendor/lib64/ov02b10sunny_mipi_raw_IdxMgr.so
@@ -1177,6 +1177,20 @@ vendor/lib64/vendor.mediatek.hardware.camera.isphal@1.1.so
 vendor/lib64/vendor.mediatek.hardware.camera.lomoeffect@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so
+vendor/xiaomi/ruby/proprietary/system/lib/libcamera_ispinterface_jni.xiaomi.so
+vendor/xiaomi/ruby/proprietary/system/lib/libhidltransport.so
+vendor/xiaomi/ruby/proprietary/system/lib/libmtkisp_metadata_sys.so
+vendor/xiaomi/ruby/proprietary/system/lib/libui.so
+vendor/xiaomi/ruby/proprietary/system/lib/vendor.mediatek.hardware.camera.isphal@1.0.so
+vendor/xiaomi/ruby/proprietary/system/lib64/libcamera_ispinterface_jni.xiaomi.so
+vendor/xiaomi/ruby/proprietary/system/lib64/libhidltransport.so
+vendor/xiaomi/ruby/proprietary/system/lib64/libmtkisp_metadata_sys.so
+vendor/xiaomi/ruby/proprietary/system/lib64/libui.so
+vendor/xiaomi/ruby/proprietary/system/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so
+vendor/xiaomi/ruby/proprietary/vendor/lib/libhidltransport.so
+vendor/xiaomi/ruby/proprietary/vendor/lib/libperfctl_vendor.so
+vendor/xiaomi/ruby/proprietary/vendor/lib64/libhidltransport.so
+vendor/xiaomi/ruby/proprietary/vendor/lib64/libperfctl_vendor.so
 
 # Camera Configs
 vendor/etc/camera/model/dof_model/capture_cache
