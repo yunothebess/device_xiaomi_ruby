@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ruby.mk
+    $(LOCAL_DIR)/afterlife_ruby.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ruby-user \
-    aosp_ruby-userdebug \
-    aosp_ruby-eng
+    afterlife_ruby-user \
+    afterlife_ruby-userdebug \
+    afterlife_ruby-eng
